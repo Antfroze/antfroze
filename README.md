@@ -34,5 +34,16 @@ I am Antfroze, a coder god.
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=antfroze&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antfroze&hide=TeX&layout=compact&theme=dark)
+<mark>
+asdasdads
+</mark>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=antfroze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antfroze&hide=TeX&layout=compact&theme=dark">
+</p>
+
+<style>
+mark{
+    color:red;
+}
+</style>
