@@ -1,9 +1,10 @@
 # Fancy seeing you here! 👋
 
-I am Antfroze, a coder god.
+I am Antfroze, a software engineer with an interest in game development.
 
 [![Website Badge](https://img.shields.io/badge/Website-000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://antfroze.me)
 [![Youtube Badge](https://img.shields.io/badge/Subscribe%20On%20Youtube-FF0000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://www.youtube.com/c/antfroze)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&labelColor=000&logoWidth=20)](https://discord.gg/QWjZKq5wbz)
 
 ---
 
@@ -34,16 +35,13 @@ I am Antfroze, a coder god.
 
 ---
 
-<mark>
-asdasdads
-</mark>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=antfroze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antfroze&hide=TeX&layout=compact&theme=dark">
 </p>
 
-<style>
-mark{
-    color:red;
-}
-</style>
+---
+
+<p align="center">
+  <a href='https://ko-fi.com/N4N0DRPRY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
