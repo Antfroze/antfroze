@@ -16,6 +16,7 @@ I am Antfroze, a coder god.
 ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&labelColor=000&logoWidth=20)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=000&logoWidth=20)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&labelColor=000&logoWidth=20)
+![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=.net&labelColor=000&logoWidth=20)
 ![HTML5](https://img.shields.io/badge/Html5-E34F26.svg?style=for-the-badge&logo=html5&labelColor=000&logoWidth=20)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&labelColor=000&logoWidth=20)
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&labelColor=000&logoWidth=20)
