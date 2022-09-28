@@ -3,7 +3,7 @@
 I am Antfroze, a coder god.
 
 [![Website Badge](https://img.shields.io/badge/Website-000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://antfroze.me)
-[![Youtube Badge](https://img.shields.io/badge/Subscribe%20On%20Youtube-red.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://www.youtube.com/c/antfroze)
+[![Youtube Badge](https://img.shields.io/badge/Subscribe%20On%20Youtube-FF0000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://www.youtube.com/c/antfroze)
 
 ---
 
