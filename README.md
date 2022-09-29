@@ -14,6 +14,7 @@ I am Antfroze, a software engineer with an interest in game development.
 ![Nodejs](https://img.shields.io/badge/NodeJS-339933.svg?style=for-the-badge&logo=node.js&labelColor=000&logoWidth=20)
 ![NextJS](https://img.shields.io/badge/NextJS-000.svg?style=for-the-badge&logo=next.js&labelColor=000&logoWidth=20)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&labelColor=000&logoWidth=20)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&labelColor=000&logoWidth=20)
 ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&labelColor=000&logoWidth=20)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=000&logoWidth=20)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&labelColor=000&logoWidth=20)
