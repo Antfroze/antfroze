@@ -2,7 +2,7 @@
 
 I am Antfroze, a software engineer with an interest in game development.
 
-[![Website Badge](https://img.shields.io/badge/Website-000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://antfroze.me)
+[![Website Badge](https://img.shields.io/badge/Website-000.svg?style=for-the-badge&logo=vercel&labelColor=000&logoWidth=20)](https://antfroze.me)
 [![Youtube Badge](https://img.shields.io/badge/Subscribe%20On%20Youtube-FF0000.svg?style=for-the-badge&logo=youtube&labelColor=000&logoWidth=20)](https://www.youtube.com/c/antfroze)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&labelColor=000&logoWidth=20)](https://discord.gg/QWjZKq5wbz)
 
