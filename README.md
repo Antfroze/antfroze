@@ -1,3 +1,5 @@
+<a href="https://antfroze.me"><img alt="Social banner for Antfroze" src="./assets/header.svg"/></a>
+
 # Fancy seeing you here! 👋
 
 I am Antfroze, a software engineer with an interest in game development.
