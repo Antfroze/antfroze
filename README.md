@@ -35,16 +35,3 @@ I am Antfroze, a software engineer with an interest in game development.
 ![GitHub](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&labelColor=000&logoWidth=20)![Unreal](https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&labelColor=000&logoWidth=20)
 ![Unity](https://img.shields.io/badge/Unity-fff.svg?style=for-the-badge&logo=unity&labelColor=000&logoWidth=20)
 ![Godot](https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=godotengine&labelColor=000&logoWidth=20)
-
----
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=antfroze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antfroze&hide=TeX&layout=compact&theme=dark">
-</p>
-
----
-
-<p align="center">
-  <a href='https://ko-fi.com/N4N0DRPRY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
