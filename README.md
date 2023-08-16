@@ -4,6 +4,7 @@ I'm currently:
 
 - building a crossplatform gaming chat app, focused around the community
 - building a platform for people to find work/workers
+- living in the terminal
 
 ## 🖥️ Technologies
 
