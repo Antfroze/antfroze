@@ -25,7 +25,7 @@ I'm currently:
 ![Postgres](https://img.shields.io/badge/postgres-272b33?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-272b33?style=for-the-badge&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/graphql-272b33?style=for-the-badge&logo=graphql&logoColor=e535ab)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css) 
+![Tailwind](https://img.shields.io/badge/tailwind-272b33?style=for-the-badge&logo=tailwind-css) 
 ![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git) 
 ![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel) 
 ![Unity](https://img.shields.io/badge/unity-272b33?style=for-the-badge&logo=unity) 
