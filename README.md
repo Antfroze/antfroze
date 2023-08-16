@@ -22,7 +22,7 @@ I'm currently:
 ![SpringBoot](https://img.shields.io/badge/springboot-272b33?logo=springboot&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-272b33?logo=redis&style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql)
+![Postgres](https://img.shields.io/badge/postgres-272b33?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-272b33?style=for-the-badge&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/graphql-272b33?style=for-the-badge&logo=graphql&logoColor=e535ab)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css) 
