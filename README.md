@@ -36,7 +36,7 @@ I'm currently:
 ![Unreal](https://img.shields.io/badge/unreal-272b33?style=for-the-badge&logo=unrealengine) 
 ![Godot](https://img.shields.io/badge/godot-272b33?style=for-the-badge&logo=godotengine) 
 
-## 🥶 Connect with me
+## 🔗 Connect with me
 <a target="_blank" href="https://antfroze.me">
   <img src="https://img.shields.io/badge/portfolio-272b33?logo=vercel&style=for-the-badge">
 </a>
